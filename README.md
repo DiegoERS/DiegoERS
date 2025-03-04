@@ -3,15 +3,18 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Diego Rios, and I am a 20-year-old Business Informatics student at the University of Costa Rica, currently based in Costa Rica.</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
+<p align="left"> I am a proactive and enthusiastic Business Informatics student with a strong passion for technology and continuous learning. I am highly committed, responsible, and always eager to explore new advancements. I thrive in teamwork environments, valuing effective communication and collaboration to achieve innovative solutions. My goal is to apply my knowledge and skills to real-world challenges, always seeking opportunities for growth and improvement.
 
-<p align="left">- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- 🔭 "I’m working on developing my skills in Business Informatics, always looking for opportunities to grow and apply my knowledge in real world scenarios."
+  <br>- 📚  I'm currently learning about the latest advancements in technology, business processes, and software development, with a special focus on backend development and cybersecurity, always eager to expand my expertise.
+  <br>- ⚡ In my free time, I enjoy exploring new technologies, collaborating on projects, and engaging in team activities that enhance my communication and problem-solving skills.</p>
 
 ###
 
