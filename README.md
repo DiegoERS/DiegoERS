@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Diego Rios, and I am a 20-year-old Business Informatics student at the University of Costa Rica, currently based in Costa Rica.</p>
+<p align="left">My name is Diego Rios, and I am a 20 year old Business Informatics student at the University of Costa Rica, currently based in Costa Rica.</p>
 
 ###
 
