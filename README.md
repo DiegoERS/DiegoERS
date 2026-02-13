@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E8C4A3&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Cybersecurity+Enthusiast;Business+Informatics+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E8C4A3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast;Web3+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 I'm **Diego Rios**, a 21-year-old Software Engineer, currently based in Costa Rica.
 
-🚀 Passionate about technology, backend development, and cybersecurity  
+🚀 Passionate about technology, Full-Stack development, and cybersecurity  
 💡 Proactive problem-solver with a strong commitment to continuous learning  
 🤝 Team player who values effective communication and collaboration  
 🔭 Always seeking opportunities to apply knowledge to real-world challenges
@@ -29,7 +29,7 @@ I'm **Diego Rios**, a 21-year-old Software Engineer, currently based in Costa Ri
 const diego = {
     role: "Software Engineer",
     location: "Costa Rica 🇨🇷",
-    currentFocus: ["Backend Development", "Cybersecurity", "Software Architecture"],
+    currentFocus: ["Full-Stack Development", "Cybersecurity", "Software Architecture"],
     learning: ["Advanced Security Patterns", "Cloud Technologies", "System Design"],
     interests: ["Technology Innovation", "Team Collaboration", "Problem Solving"],
     funFact: "Always exploring new technologies and eager to tackle complex challenges"
