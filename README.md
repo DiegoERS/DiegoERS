@@ -96,16 +96,16 @@ const diego = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YourGitHubUsername&count_private=true&theme=dark&border_radius=10&background=2D2D2D&ring=E8C4A3&fire=E8C4A3&currStreakLabel=E8C4A3&sideLabels=E8C4A3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DiegoERS&count_private=true&theme=dark&border_radius=10&background=2D2D2D&ring=E8C4A3&fire=E8C4A3&currStreakLabel=E8C4A3&sideLabels=E8C4A3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&bg_color=2D2D2D&color=E8C4A3&line=D4A574&point=E8C4A3&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoERS&bg_color=2D2D2D&color=E8C4A3&line=D4A574&point=E8C4A3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourGitHubUsername&theme=nord_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YourGitHubUsername&theme=nord_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiegoERS&theme=nord_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiegoERS&theme=nord_dark" alt="Most Commit Language" />
 </p>
 
 <div align="center">
